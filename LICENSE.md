@@ -1,6 +1,14 @@
+<!-- TODO: THIS FILE IS A TEMPLATE AND SHOULD BE CUSTOMIZED TO FIT THE
+           REPOSITORY'S NEEDS. PLEASE REVIEW AND MODIFY AS NECESSARY BEFORE
+           USING IT.
+
+           THIS LICENSE HAS NO LEGAL STANDING UNLESS THE PLACEHOLDER TEXT IS
+           REPLACED WITH THE APPROPRIATE INFORMATION.
+-->
+
 MIT License
 
-Copyright (c) 2026 Octal Mesh
+Copyright (c) [YEAR] [COPYRIGHT HOLDER NAME]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
