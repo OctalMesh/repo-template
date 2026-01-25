@@ -1,21 +1,22 @@
 blank_issues_enabled: false
+
 contact_links:
-  - name: Issue with website
-    url: https://github.com/OctalMesh/OctalWeb/issues/new/choose
-    about: Please open issues relating to the website in OctalMesh/OctalWeb
+  - name:  "Issue with website"
+    about: "Please open issues relating to the website in 'OctalMesh/OctalWeb'"
+    url:   "https://github.com/OctalMesh/OctalWeb/issues/new/choose"
 
-  - name: Issue with design
-    url: https://github.com/OctalMesh/OctalDesign/issues/new/choose
-    about: Please open issues relating to design in OctalMesh/OctalDesign
+  - name:  "Issue with design"
+    about: "Please open issues relating to design in 'OctalMesh/OctalDesign'"
+    url:   "https://github.com/OctalMesh/OctalDesign/issues/new/choose"
 
-  - name: Issue with font
-    url: https://github.com/OctalMesh/OctalFont/issues/new/choose
-    about: Please open issues relating to font in OctalMesh/OctalFont
+  - name:  "Issue with font"
+    about: "Please open issues relating to font in 'OctalMesh/OctalFont'"
+    url:   "https://github.com/OctalMesh/OctalFont/issues/new/choose"
 
-  - name: 🌐 Website
-    url: https://octalmesh.com/
-    about: Check out our website
+  - name:  "🌐 Website"
+    about: "Check out our official website"
+    url:   "https://octalmesh.com/"
 
-  - name: 📣 Socials
-    url: https://socials.octalmesh.com/
-    about: Join us on social media
+  - name:  "📣 Socials"
+    about: "Join us on social media platforms"
+    url:   "https://socials.octalmesh.com/"
