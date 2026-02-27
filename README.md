@@ -47,12 +47,14 @@ specific needs that differ from the organization-wide defaults.
     - `SUPPORT.md` (+ Ukrainian version)
 
 - **Licensing**
-    - `LICENSE.md` (MIT License by default)
+    - `LICENSE.md` (MIT License by default; fill in `[YEAR]` and
+      `[COPYRIGHT HOLDER NAME]` before use)
 
 - **GitHub templates and automation**
     - Issue templates
     - Pull request template
-    - Code owners
+    - Code owners (`.github/CODEOWNERS`)
+    - Funding configuration (`.github/FUNDING.yaml`)
 
 - **Repository configuration**
     - `.editorconfig`
