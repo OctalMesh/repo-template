@@ -41,25 +41,25 @@ specific needs that differ from the organization-wide defaults.
 ## What this template includes
 
 - **Policies**
-    - `CODE_OF_CONDUCT.md` (+ Ukrainian version)
-    - `CONTRIBUTING.md` (+ Ukrainian version)
-    - `SECURITY.md` (+ Ukrainian version)
-    - `SUPPORT.md` (+ Ukrainian version)
+  - `CODE_OF_CONDUCT.md` (+ Ukrainian version)
+  - `CONTRIBUTING.md` (+ Ukrainian version)
+  - `SECURITY.md` (+ Ukrainian version)
+  - `SUPPORT.md` (+ Ukrainian version)
 
 - **Licensing**
-    - `LICENSE.md` (MIT License by default; fill in `[YEAR]` and
-      `[COPYRIGHT HOLDER NAME]` before use)
+  - `LICENSE.md` (MIT License by default; fill in `[YEAR]` and
+    `[COPYRIGHT HOLDER NAME]` before use)
 
 - **GitHub templates and automation**
-    - Issue templates
-    - Pull request template
-    - Code owners (`.github/CODEOWNERS`)
-    - Funding configuration (`.github/FUNDING.yaml`)
+  - Issue templates
+  - Pull request template
+  - Code owners (`.github/CODEOWNERS`)
+  - Funding configuration (`.github/FUNDING.yaml`)
 
 - **Repository configuration**
-    - `.editorconfig`
-    - `.gitattributes`
-    - `.gitignore`
+  - `.editorconfig`
+  - `.gitattributes`
+  - `.gitignore`
 
 ## When to modify this template
 
